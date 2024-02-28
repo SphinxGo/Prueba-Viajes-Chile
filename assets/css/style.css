@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    width: auto;
+    font-family: raleway;
+}
+hr{
+    font-weight: solid;
+    font-size: 4px;
+    color: aquamarine;
+}
+.navcolor{
+    background-color: #27a1ac;
+}
+.text{
+    text-align: left;
+}
+a{
+    color: white;
+}
+.tamImg{
+    width: auto;
+    height: 160px;
+}
+.g{
+    align-items: center;
+}
